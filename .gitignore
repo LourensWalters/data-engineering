@@ -19,6 +19,8 @@ lib64/
 parts/
 sdist/
 var/
+notebooks/examples/
+notebooks/data_pipeline_airflow_template/
 *.egg-info/
 .installed.cfg
 *.egg
